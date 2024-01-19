@@ -4,7 +4,15 @@ to create / initialize a empty repo
 to check the difference between repo and folder
 --git status
 
-to track or add files
+to track or add files to staging
 --git add <file>
 eg. git add git_commands.txt
 
+to track or add all files to staging
+--git add.
+
+to commit changes
+--git commit -m "Commit Message"
+
+to check commmits
+--git log
