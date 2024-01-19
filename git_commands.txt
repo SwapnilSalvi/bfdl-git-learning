@@ -1,0 +1,10 @@
+to create / initialize a empty repo
+--git init
+
+to check the difference between repo and folder
+--git status
+
+to track or add files
+--git add <file>
+eg. git add git_commands.txt
+
