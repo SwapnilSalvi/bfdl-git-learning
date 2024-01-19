@@ -9,7 +9,7 @@ to track or add files to staging
 eg. git add git_commands.txt
 
 to track or add all files to staging
---git add.
+--git add .
 
 to commit changes
 --git commit -m "Commit Message"
