@@ -51,3 +51,9 @@ to merge the code of other branches to main
 
 to pull remote changes to local repo/branch
 -- git pull origin <branchname>
+
+to delete a branch
+-- git branch --delete <branchname>
+
+to clone a remote branch, default branch will be cloned ie. main
+-- git clone <url>
