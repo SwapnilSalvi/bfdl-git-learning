@@ -1,6 +1,9 @@
 to create / initialize a empty repo
 --git init
 
+to connect local repo to remote repo
+--git remote add origin <url>
+
 to check the difference between repo and folder
 --git status
 
@@ -14,5 +17,5 @@ to track or add all files to staging
 to commit changes
 --git commit -m "Commit Message"
 
-to check commmits
+to check commmits log
 --git log
