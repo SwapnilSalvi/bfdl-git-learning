@@ -45,3 +45,6 @@ hard - to remove the files from everywhere
 
 to switch / change branch
 -- git checkout <branchname>
+
+to merge the code of other branches to main
+-- git merge <branchname>
