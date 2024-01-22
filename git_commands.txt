@@ -19,3 +19,6 @@ to commit changes
 
 to check commmits log
 --git log
+
+to set 'main' branch as default
+--git branch -M main
