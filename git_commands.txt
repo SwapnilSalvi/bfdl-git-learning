@@ -48,3 +48,6 @@ to switch / change branch
 
 to merge the code of other branches to main
 -- git merge <branchname>
+
+to pull remote changes to local repo/branch
+-- git pull origin <branchname>
