@@ -23,6 +23,9 @@ to check commits log
 default branch is master if you want it to be main
 --git branch -M main
 
+to unstage file from staging
+--git restore --staged <file>
+
 resetting commits
 -- git reset --soft HEAD~n (n - number of latest commits to revert)
 -- git reset HEAD~n
